@@ -29,13 +29,13 @@ Or
 
 ### Installing the extension
 #### Loding unpacked extension
-![Installing the extension Method 1](https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/assets/guides/select.gif)
+![Installing the extension Method 1](https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/assets/Guides/select.gif)
 #### Drag and drop
-![Installing the extension Method 2](https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/assets/guides/dragndrop.gif)
+![Installing the extension Method 2](https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/assets/Guides/dragndrop.gif)
 ### Adding accounts
 #### Current
-![Adding accounts](https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/assets/guides/current.gif)
+![Adding accounts](https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/assets/Guides/current.gif)
 #### Empty
-![Adding accounts](https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/assets/guides/empty.gif)
+![Adding accounts](https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/assets/Guides/empty.gif)
 ### Switching accounts
-![Switching accounts](https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/assets/guides/switching.gif)
+![Switching accounts](https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/assets/Guides/switching.gif)
