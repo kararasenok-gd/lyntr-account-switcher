@@ -1,5 +1,6 @@
 # Lyntr Account Switcher
 Simple Extension that allow to switch between accounts in [Lyntr](https://lyntr.com/)
+I don't plan upload this in Chrome Store. I don't have 5 dollars...
 
 ## Installation
 ## Local
