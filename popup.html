@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lyntr Account Switcher</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <h1>Lyntr Account Switcher</h1>
+  <p>v0.0.1</p>
+  <p>By <a href="https://github.com/kararasenok-gd" target="_blank">kararasenok_gd</a> :3</p>
+  <br><strong>⚠️WARNING⚠️</strong>
+  <p>This is Alpha version! Something might be broken or not working.</p>
+
+  <br><br><p>I don't steal your tokens. This project is <a href="https://github.com/kararasenok-gd/lyntr-account-switcher" target="_blank">open source</a>. You can analize content.js and you dont find any stealers. Btw, you load this extension from github.</p>
+
+
+  <div id="container">
+    <div id="accountList">
+      <!-- Список аккаунтов будет обновляться здесь -->
+    </div>
+    <button id="addAccountButton">Add Account</button>
+    <button id="addThisAccountButton">Add This Account</button>
+
+    <div id="accountSettings">
+      <h3>Account Settings</h3>
+      <label for="accountDisplayName">Display Name:</label>
+      <input type="text" id="accountDisplayName"><br><br>
+      <label for="accountToken">Token:</label>
+      <input type="password" id="accountToken"><br><br> Show token: <input type="checkbox" id="accountTokenShow">
+      <button id="deleteAccountButton">Delete Account / Cancel creation</button>
+      <button id="accountSettingsSubmit">Save and Close</button>
+    </div>
+  </div>
+  <script src="content.js"></script>
+</body>
+
+</html>

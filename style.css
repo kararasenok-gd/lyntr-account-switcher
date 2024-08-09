@@ -1,0 +1,85 @@
+@font-face {
+    font-family: fredokaone;
+    src: url('fredoka1.ttf');
+}
+
+
+* {
+    font-family: fredokaone;
+}
+
+#container {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    background-color: #282828;
+    border: 1px solid #ddd;
+    padding: 10px;
+    z-index: 10000;
+}
+
+#accountList div {
+    margin-bottom: 5px;
+}
+
+button {
+    margin-right: 5px;
+}
+
+#closeButton {
+    margin-top: 10px;
+}
+
+body {
+    width: 300px;
+    /* Установите ширину окна */
+    height: 600px;
+    /* Установите высоту окна */
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #282828;
+    color: #918274;
+}
+
+button {
+    background-color: #3c3836;
+    color: #d4be98;
+    border: 1px solid #d4be98;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+
+button:hover {
+    filter: brightness(0.9);
+    transform: scale(1.05);
+    transition: all 0.3s;
+}
+
+button:active {
+    transform: scale(0.95);
+    transition: all 0.3s;
+}
+
+button:disabled {
+    filter: brightness(0.5);
+    cursor: not-allowed;
+}
+
+#accountList div {
+    margin-bottom: 5px;
+}
+
+#accountSettings {
+    display: none;
+    margin-top: 10px;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+}
+
+.currentAccount {
+    color: #a6d498;
+}
