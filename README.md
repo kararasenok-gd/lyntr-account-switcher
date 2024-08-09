@@ -27,7 +27,7 @@ Or
 
 ## Updating
 1. Go to [realeses](https://github.com/kararasenok-gd/lyntr-account-switcher/releases)
-2. Download the latest version Sourse code (zip)
+2. Download the latest version build.zip
 3. Unzip it in extension folder (replace everything)
 
 **Done!**
