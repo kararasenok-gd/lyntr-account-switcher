@@ -1,3 +1,6 @@
+# THIS WILL NO LONGER RECEIVE UPDATES! LYNTR IS SHUTTING DOWN!
+Yeah... It's sad... But this is fun to create something like this... Was fun...
+
 # Lyntr Account Switcher
 Simple Extension that allow to switch between accounts in [Lyntr](https://lyntr.com/)
 
