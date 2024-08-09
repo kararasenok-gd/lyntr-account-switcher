@@ -133,3 +133,16 @@ document.getElementById('accountTokenShow').addEventListener('change', function 
         document.getElementById('accountToken').type = 'password';
     }
 })
+
+const currentVersion = 'v0.0.1';
+
+fetch("https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/ver").then((response) => {
+    response.text()
+}).then((text) => {
+    if (currentVersion !== text) {
+        const message = "New version available! Would you like to update?";
+        if (confirm(message)) {
+            window.open("https://github.com/kararasenok-gd/lyntr-account-switcher/releases/latest");
+        }
+    }
+})
