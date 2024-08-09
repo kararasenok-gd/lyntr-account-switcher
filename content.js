@@ -134,7 +134,7 @@ document.getElementById('accountTokenShow').addEventListener('change', function 
     }
 })
 
-const currentVersion = 'v0.0.1';
+const currentVersion = 'v0.0.2';
 
 fetch("https://raw.githubusercontent.com/kararasenok-gd/lyntr-account-switcher/main/ver").then((response) => {
     response.text()
